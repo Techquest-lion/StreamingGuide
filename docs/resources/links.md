@@ -34,6 +34,8 @@ A curated set of official pages and tools used in this guide.
 - [AIOStreams Discord](https://discord.viren070.me)
 - [AIOMetadata](https://github.com/cedya77/aiometadata)
 - [Torrentio](https://torrentio.strem.fun)
+  - [Install Guide](https://torentio.com/how-to-install-torrentio-on-stremio/)
+  - [Troubleshooting Guide](https://torentio.com/torrentio-troubleshooting-guide/)
 - [Comet](https://comet.elfhosted.com)
 - [MediaFusion](https://mediafusion.elfhosted.com)
 - [TorrentsDB](https://torrentsdb.com)
